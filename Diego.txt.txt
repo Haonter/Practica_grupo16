@@ -1,0 +1,21 @@
+Waldemar -- Archivo index.html
+Jesus Pinto -- Style.css
+Roger -- Script.js
+SVillasmil -- Style.sass
+Mayra -- script.ts
+William -- package.json
+Nufort15 -- main.html
+Luisa -- routes.js
+Anderson -- views.js
+Johanny -- components.css
+Paul -- hooks.js
+Jose David -- database.sql
+Luis Romero -- credentials.env
+David Bolivar -- controllers.js
+Veruzka -- models.js
+Wilfredo -- middlewares.js
+Daniel -- main.py
+Jorge Lopez -- routes.p
+Marioxi -- objects.php
+Daniel -- plugin.php
+Diego Rodriguez -- public.html
